@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=g2d
+comment0.target=void\ desenhoLivre(java.awt.Graphics2D)
+comment1.params=g2d
+comment1.target=void\ desenharAsterisco(java.awt.Graphics2D)
+comment2.params=g2d
+comment2.target=void\ desenharSmiles(java.awt.Graphics2D)
+comment3.params=g2d
+comment3.target=void\ desenharComputador(java.awt.Graphics2D)
+numComments=4

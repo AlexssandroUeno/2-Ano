@@ -1,0 +1,23 @@
+
+import java.util.ArrayList;
+public class CarrinhoDeCompras
+{
+  private ArrayList<String> produtos = new ArrayList<String>();
+
+  public void addProdutos(String produtos)
+  {
+    this.produtos.add(produtos);
+     System.out.println("O produto "+ produtos +" foi adicionado ao carrinho");
+  }
+  public void removeProdutos(String produtos)
+  {
+  	this.produtos.remove(produtos);
+  } 
+  
+  
+}
+
+
+
+
+

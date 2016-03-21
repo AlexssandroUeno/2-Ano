@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Botao()
+comment1.params=
+comment1.target=java.lang.String\ getCor()
+comment2.params=cor
+comment2.target=void\ setColor(java.lang.String)
+comment3.params=
+comment3.target=void\ dePress()
+comment4.params=
+comment4.target=void\ unPress()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getNome()
+numComments=7

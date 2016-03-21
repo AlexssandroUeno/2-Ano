@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=arranjo
+comment0.target=void\ ordenar(int[])
+comment1.params=lista\ repeticoes
+comment1.target=double\ benchmarkOrdenacao(int[],\ int)
+comment1.text=\r\n\ Realiza\ busca\ pela\ posi\u00E7\u00E3o\ de\ um\ valor.\r\n\ \r\n\ @param\ lista\ Lista\ de\ valores\ a\ serem\ procurados.\r\n\ @param\ valor\ Valor\ a\ ser\ procurado\ na\ lista.\r\n\ @return\ A\ posi\u00E7\u00E3o\ do\ valor\ encontrado,\ ou\ -1\ caso\ n\u00E3o\ encontre.\r\n
+comment2.params=original
+comment2.target=int[]\ copiarArranjo(int[])
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Contador()
+comment1.params=
+comment1.target=void\ contarComparacao()
+comment2.params=
+comment2.target=int\ getComparacoes()
+comment3.params=qtde
+comment3.target=void\ contarEscritas(int)
+comment4.params=
+comment4.target=int\ getEscritas()
+numComments=5

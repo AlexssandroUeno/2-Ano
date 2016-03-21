@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=arranjo
+comment0.target=void\ ordenar(int[])
+comment0.text=\r\n\ Este\ m\u00E9todo\ ordena\ o\ arranjo\ utilizando\ o\ algoritmo\ de\ selecao.\r\n\ \r\n\ @param\ arranjo\ Arranjo\ a\ ser\ ordenado.\r\n
+comment1.params=ordenado\ i\ j
+comment1.target=void\ trocar(int[],\ int,\ int)
+numComments=2

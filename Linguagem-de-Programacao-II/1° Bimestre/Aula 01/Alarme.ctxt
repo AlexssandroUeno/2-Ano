@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Alarme()
+comment1.params=hora\ minuto
+comment1.target=void\ setHora(int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getHora()
+comment3.params=horaA\ minA
+comment3.target=void\ setHoraAlarme(int,\ int)
+comment4.params=
+comment4.target=java.lang.String\ getHoraAlarme()
+comment5.params=
+comment5.target=void\ setligado()
+comment6.params=
+comment6.target=void\ setligadoA()
+comment7.params=
+comment7.target=java.lang.String\ getStatus()
+numComments=8

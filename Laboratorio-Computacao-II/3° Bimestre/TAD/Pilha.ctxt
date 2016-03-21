@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=e
+comment0.target=void\ empilhar(java.lang.Object)
+comment0.text=\r\n\ Do\ ingl\u00EAs,\ push(),\ o\ m\u00E9todo\ empilhar\ apartir\ de\ um\ elemento\r\n\ adiciona-o\ na\ \u00FAltima\ posi\u00E7\u00E3o\ pilha,\ com\ um\ desempenho\ de\ O(1)\r\n\ \r\n\ \r\n\ @param\ E\r\n\ \ \ \ \ \ \ \ \ \ Elemento\ abstrato\ para\ inclus\u00E3o\r\n\ \r\n
+comment1.params=
+comment1.target=java.lang.Object\ desempilhar()
+comment1.text=\r\n\ Do\ ingl\u00EAs,\ pop(),\ o\ m\u00E9todo\ desempilha\ o\ \u00FAltimo\ elemento\ da\ pilha,\r\n\ retornando\ o\ elemento\ desempilhado,\ com\ um\ desempenho\ de\ O(1)\r\n\ \r\n\ @return\ T\ -\r\n\ \ \ \ \ \ \ \ \ \ Retorna\ o\ elemento\ removido.\r\n\ \r\n
+comment2.params=
+comment2.target=java.lang.Object\ olhar()
+comment2.text=\r\n\ Do\ ingl\u00EAs,\ peek(),\ o\ m\u00E9todo\ mostra\ o\ primeiro\ elemento,\ \r\n\ com\ um\ desempenho\ de\ O(1)\ \r\n\ \r\n@return\ T\ -\r\n\ \ \ \ \ \ \ \ \ \ Retorna\ o\ topo\ da\ pilha\ \r\n\ \r\n
+numComments=3

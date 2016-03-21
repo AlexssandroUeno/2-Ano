@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NumRacional()
+comment1.params=numerador\ denominador
+comment1.target=NumRacional(int,\ int)
+comment2.params=
+comment2.target=int\ getDenominador()
+comment3.params=
+comment3.target=int\ getNumerador()
+comment4.params=denominador
+comment4.target=void\ setDenominador(int)
+comment5.params=numerador
+comment5.target=void\ setNumerador(int)
+comment6.params=b
+comment6.target=NumRacional\ somar(NumRacional)
+comment7.params=b
+comment7.target=NumRacional\ subt(NumRacional)
+comment8.params=b
+comment8.target=NumRacional\ div(NumRacional)
+comment9.params=b
+comment9.target=NumRacional\ mult(NumRacional)
+numComments=10

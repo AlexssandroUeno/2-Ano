@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vehicle()
+comment1.params=
+comment1.target=double\ getPreco()
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment3.params=
+comment3.target=java.lang.String\ getModelo()
+comment4.params=
+comment4.target=int\ getAno()
+comment5.params=preco
+comment5.target=void\ setPreco(double)
+comment6.params=color
+comment6.target=void\ setColor(java.lang.String)
+comment7.params=modelo
+comment7.target=void\ setModelo(java.lang.String)
+comment8.params=ano
+comment8.target=void\ setAno(int)
+numComments=9

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=atributos
+comment0.target=Vertice(java.lang.Object)
+comment1.params=
+comment1.target=java.lang.Object\ getAtributos()
+comment2.params=x
+comment2.target=java.lang.Object\ setAtributos(java.lang.Object)
+numComments=3

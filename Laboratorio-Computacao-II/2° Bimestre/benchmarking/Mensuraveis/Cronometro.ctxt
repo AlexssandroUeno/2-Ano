@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cronometro()
+comment0.text=\r\n\ Construtor\ padr\u00E3o\ da\ classe.\r\n
+comment1.params=
+comment1.target=void\ iniciar()
+comment1.text=\r\n\ Inicia\ ou\ reinicia\ a\ contagem\ de\ tempo.\ Nunca\ zera\ o\ \u00FAltimo\ estado\ do\ contador.\ Se\ o\ tempo\ j\u00E1\r\n\ estiver\ correndo,\ n\u00E3o\ faz\ nada.\r\n
+comment2.params=
+comment2.target=double\ parar()
+comment2.text=\r\n\ Para\ a\ contagem\ de\ tempo\ e\ retorna\ o\ tempo\ decorrido\ at\u00E9\ o\ momento\ da\ parada.\r\n\ \r\n\ @return\ Tempo\ decorrido\ at\u00E9\ o\ momento\ da\ parada.\r\n
+comment3.params=
+comment3.target=double\ lerTempoEmMilissegundos()
+comment3.text=\r\n\ Retorna\ o\ tempo\ decorrido\ contado\ at\u00E9\ ent\u00E3o,\ independente\ se\ est\u00E1\ parado\ ou\ correndo.\ N\u00E3o\r\n\ altera\ o\ estado\ de\ contagem\ (parado/correndo).\r\n\ \r\n\ return\ Tempo\ decorrido\ contado\ pelo\ cron\u00F4metro.\r\n
+comment4.params=
+comment4.target=void\ zerar()
+comment4.text=\r\n\ Zera\ o\ contador\ de\ tempo\ do\ cron\u00F4metro.\ Se\ o\ cron\u00F4metro\ estava\ em\ estado\ de\ contagem,\ ele\ \u00E9\r\n\ parado.\r\n
+numComments=5

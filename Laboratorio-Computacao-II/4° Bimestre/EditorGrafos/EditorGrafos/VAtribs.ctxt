@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=posicao\ nome
+comment0.target=VAtribs(java.awt.Point,\ java.lang.String)
+comment1.params=
+comment1.target=java.awt.Point\ getPosicao()
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=nome
+comment3.target=void\ setNome(java.lang.String)
+numComments=4

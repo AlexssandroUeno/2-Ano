@@ -1,0 +1,42 @@
+﻿#####################################
+#
+#@Author Thelokys
+#@Version 03/03/2015
+#
+#####################################
+#Olá tuido bom? Eu sou um comentáro ##,  estou aqui para fazer sobre como funciona o Makefile
+#Para começar a mexer  no makefile, você tem criar um arquivo com o nome Makefile
+#
+#
+#-Wall -Werror -> mostra todos os Warnings
+#g++ -> seu compilador ex: clang, gcc, g++, etc.
+#
+#Crie o Makefile, na mesma pasta do seus ".c" ou .h.
+#
+#Para executar o Makefile, digite "make" no terminal
+#
+
+
+
+CC = g++
+CFLAGS = -Wall -Werror
+OBJECTS = arquivo.o, arquivo2.o arquivo3.o
+EXEC = nome_do_seu_programa(executavel)
+
+all: metodoMain
+
+metodoMain: $(OBJECTS)
+#essa linha só aparece \/, quando eu quero compilar,e juntar todos os arquivo em um só
+	g++  $(CFLAGS) <arquivo.c> <arquivo2.c> <arquivo3.c> -o $(EXEC)
+
+arquivo.o:<nome do seu arquivo.c>
+	g++ -o <nome do programa à ser gerado> <nome do seu arquivo.c>
+
+arquivo2.o: <nome do seu arquivo2.c> <header_relacionados.h>
+	g++ -o <nome do programa à ser gerado> <nome do seu arquivo.c>
+
+arquivo3.o: <nome do seu arquivo3.c> <header_relacionados.h>
+	g++ -o <nome do programa à ser gerado> <nome do seu arquivo.c>
+
+clear:
+	rm -rf  $(OBJECTS) $(EXEC)

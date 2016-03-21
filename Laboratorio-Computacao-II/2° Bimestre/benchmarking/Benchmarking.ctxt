@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ In\u00EDcio\ do\ programa,\ define\ os\ par\u00E2metros\ de\ benchmarking,\ executa\ e\ exibe\ os\ resultados\ em\r\n\ forma\ de\ gr\u00E1fico.\r\n\ \r\n\ \r\n
+comment1.params=nMin\ nMax\ passo\ repeticoes
+comment1.target=TabelaTempos\ tomaTemposOrdenacoes(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Realiza\ o\ benchmarking\ de\ diversas\ implementa\u00E7\u00F5es\ de\ ordenacao\ em\ arranjos\ e\ anota\ os\ resultados\r\n\ em\ uma\ tabela\ de\ tempos.\r\n\ \r\n\ @Param\ nMin,\r\n\ \ \ \ \ \ \ \ \ \ Quantidade\ minimma\ do\ tamanho\ do\ arranjo\r\n\ @Param\ nMax,\ \r\n\ \ \ \ \ \ \ \ \ \ Maxima\ quantidade\ de\ tamanho\ do\ arranjo\r\n\ @Param\ passo,\ \r\n\ \ \ \ \ \ \ \ \ \ Quantidades\ de\ passos\ que\ sera\ feita\ por\ ordenacao\r\n\ @Param\ repeticoes,\ \r\n\ \ \ \ \ \ \ \ \ \ Numero\ de\ repeticoes\ que\ sera\ realizadas\r\n\ \r\n\ @Return\ dadosDesempenho,\ \r\n\ \ \ \ \ \ Retorna\ tabela\ com\ dados\ das\ execucoes/tempos\ criando\ um\ estatitisca\ de\ \r\n\ \ \ \ \ \ desepenho\ de\ cada\ metodo\ de\ ordenacao\r\n
+numComments=2

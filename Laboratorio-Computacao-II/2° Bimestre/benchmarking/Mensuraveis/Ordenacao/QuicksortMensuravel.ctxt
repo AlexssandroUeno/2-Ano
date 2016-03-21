@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=arranjo
+comment0.target=void\ ordenar(int[])
+comment1.params=vetor\ inicio\ fim
+comment1.target=void\ sort(int[],\ int,\ int)
+comment1.text=\r\n\ No\ metodo\ sort,aqui\ Eh\ aonde\ aplicamos\ o\ quicksort\ atraves\ de\ uma\ indutiva\ relizada\ varias\ vezes,\r\n\ quebrando\ o\ vetor\ em\ partes\ e\ ordenando-o.\r\n\ \r\n\ @Param\ vetor[],\ referencia\ do\ vetor\ que\ sera\ ordenado.\r\n\ @Param\ inicio,\ referencia\ do\ inicio\ do\ vetor\ para\ fins\ de\ ordenacao.\r\n\ @param\ fim,\ referencia\ final\ do\ vetor\ para\ fins\ de\ ordenacao.\r\n
+comment2.params=vetor\ inicio\ fim
+comment2.target=int\ separar(int[],\ int,\ int)
+comment2.text=\r\n\ No\ metodo\ separar,\ temos\ as\ referencias\ do\ inicio\ e\ fim\ (dois\ pivos)para\ fazer\ \r\nsuas\ respectivas\ trocas\ quando\ eles\ tiverem\ no\ mesmo\ indice.\r\n\ \r\n\ @param\ vetor,\ referencia\ do\ vetor\ que\ ira\ ser\ ordenado.\r\n\ @param\ inicio,\ referencia\ inicial\ do\ vetor.\r\n\ @param\ fim,\ referencia\ final\ do\ vetor.\r\n\ \r\n\ @return\ f,\ referencia\ do\ indice\ do\ vetor\ que\ ira\ ser\ separado.\r\n
+numComments=3

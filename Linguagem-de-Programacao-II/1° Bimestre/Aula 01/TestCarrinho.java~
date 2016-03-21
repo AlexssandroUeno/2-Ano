@@ -1,0 +1,13 @@
+
+public class TestCarrinho
+{
+    public static void main (String []args)
+    {
+    	CarrinhoDeCompra cart = new CarrinhoDeCompra();
+	cart.addProdutos("banana");
+	cart.addProdutos("pera");
+	cart.addProdutos("melancia");
+	cart.removeProdutos("pera");
+	cart.showProdutos();
+    }
+}

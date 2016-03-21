@@ -1,0 +1,47 @@
+
+arquivo:  main.c
+
+
+void srand(unsigned int seed) - alimenta os numeros aleatorios utilizado pela funcao rand.
+int rand(void) - retorna um "numero aleatorio"(pseudo).
+
+FILE *fopen(const char *filename, const char *mode) - abre um arquivo de acordo com o ponteiro do nome dele, usando o modo dado,podendo ele ser para escrever -w, ler -r, acrescentar -a,... .  
+
+printf(char const*format,...) - envia uma saída formata para o stdout(saida padrao).
+
+exit(int status) - termina o processo de chamada imediatamente.
+
+int fscanf(FILE  *stream,const char *format,...) ler entrada formata(format) de um arquivo(stream)
+
+int feof(FILE *stream) - verifica o fim de um arquivo stream.
+
+
+arquivo forca.c
+
+
+int putchar(int character) - escreve um caracter no stdout(saida padrao)
+
+void* calloc (size_t num, size_t size) - Aloca a memória solicitada e retornando o ponteiro.
+
+void * memset (void *ptr,  int caracter, size_t n) - Define os primeiros bytes num do bloco de memória apontado por ptr para o valor especificado.
+
+int getchar(void) - recebe um caracter do teclado.
+
+int isalpha(int caracter) verifica se caracter eh uma letra do alfabeto
+
+char *strchr(const char *str, int caracter) ou char *strchr(char *str, int c) - retorna o ponteiro da primeira occorencia do caracter, se nao achar um caracter retorna NULL.
+
+
+arquivo lista_palavras.c
+
+
+void *malloc(size_t size) - retorna um ponteiro para alocar na memoria, atribui um bloco de tamanho bytes de memoria.
+
+char *strcpy(char *dest, const char *src) copia uma sequencia de char(string) apontado por arranjo do src pelo dest, e inclui o caracter nulo '\0' de terminacao.
+
+void free(void *ptr) desaloca, libera memoria que estava alocado pelos comandos calloc, malloc ou realloc.
+
+
+
+
+

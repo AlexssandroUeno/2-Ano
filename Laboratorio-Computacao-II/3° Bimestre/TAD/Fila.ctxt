@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=e
+comment0.target=void\ enfileira(java.lang.Object)
+comment0.text=\ O\ m\u00E9todo\ enfileirar\ recebe\ um\ elemento\ e\ \r\n\ adiciona\ ao\ final\ da\ fila\ um\ elemento.\r\n\ Com\ um\ desempenho\ de\ O(1)\r\n\ \r\n\ \r\n\ @param\ e,\ Refer\u00EAncia\ do\ elemento\ para\ ser\ adicionado.\r\n\ \r\n
+comment1.params=
+comment1.target=java.lang.Object\ desenfilerar()
+comment1.text=\ O\ m\u00E9todo\ desenfileirar\ remove\ o\ primeiro\ elemento\ da\ fila\r\n\ e\ depois\ o\ retorna.\r\n\ Com\ um\ desempenho\ de\ O(1)\r\n\ \r\n\ @return\ T,\ retorna\ o\ elemento\ que\ foi\ removido\r\n\ \r\n
+comment2.params=
+comment2.target=java.lang.Object\ primeiro()
+comment2.text=\ O\ m\u00E9todo\ primeiro,\ mostra\ o\ primeiro\ elemento\ inserido\ na\ fila\ toda.\ \r\n\ Com\ um\ desempenho\ de\ O(1)\r\n\ \r\n\ @return\ T,\ retorna\ o\ primeiro\ elemento\ da\ fila.\r\n\ \r\n
+comment3.params=
+comment3.target=java.lang.Object\ ultimo()
+comment3.text=\ O\ m\u00E9todo\ \u00FAltimo,\ mostra\ o\ \u00FAltimo\ elemento\ adiciona\ na\ fila.\r\n\ Com\ um\ desempenho\ de\ O(1)\r\n\ \r\n\ @return\ T,\ retorna\ o\ ultimo\ elemento\ da\ fila.\r\n\ \r\n
+numComments=4
